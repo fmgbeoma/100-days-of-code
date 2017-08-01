@@ -1,0 +1,12 @@
+# 100 Days Of Code - Log
+
+
+## Log
+
+### Day 1: July 31. Monday
+
+**Today's Progress**: Started HTML5 and CSS: challenges 1 - 33
+
+**Thoughts:** Feels good to be consistent at coding.
+
+**Link to work:** [Challenges 1-33](https://codepen.io/Fucho/projects/public/)
