@@ -24,3 +24,10 @@
 **Today's Progress**: Started responsive design with bootstrap: challenges 50 - 76 
 
 **Thoughts:** Totally worth all the effort.
+
+### Day 4: August 4. Tuesday
+
+**Today's Progress**: Started HTML5 and CSS: challenges 77 - 83
+
+**Thoughts:** Had a serious challenge with an open source project I forked from GitHub. Issue was the gulp kept throwing error. Was able to work more on the Github project that my code challenge
+
