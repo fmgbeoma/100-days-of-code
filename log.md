@@ -38,3 +38,5 @@
 **Thoughts** Was feeling reluctant to code today, so took some time off to go out and cool off, then continue with coding later, finished portfolio page
 
 **Link to work:** [Challenges 84 - 115](https://codepen.io/Fucho/full/MvpaWJ)
+
+###Day 6: August 8. Tuesday
