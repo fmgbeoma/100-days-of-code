@@ -25,9 +25,16 @@
 
 **Thoughts:** Totally worth all the effort.
 
-### Day 4: August 4. Tuesday
+### Day 4: August 4. Friday
 
-**Today's Progress**: Started HTML5 and CSS: challenges 77 - 83
+**Today's Progress**: Challenges 77 - 83
 
 **Thoughts:** Had a serious challenge with an open source project I forked from GitHub. Issue was the gulp kept throwing error. Was able to work more on the Github project that my code challenge
 
+### Day 5: August 7. Monday
+
+**Today's progress**: Challenges 84 - 115
+
+**Thoughts** Was feeling reluctant to code today, so took some time off to go out and cool off, then continue with coding later, finished portfolio page
+
+**Link to work:** [Challenges 84 - 115](https://codepen.io/Fucho/full/MvpaWJ)
