@@ -40,3 +40,8 @@
 **Link to work:** [Challenges 84 - 115](https://codepen.io/Fucho/full/MvpaWJ)
 
 ###Day 6: August 8. Tuesday
+**Today's progress**: Testing using PHPUnit
+
+**Thoughts** There's so much to learn that I feel both motivated and de-motivated
+
+**Link to work:** [GitHub commit](https://github.com/fmgbeoma/php7/commit/336a2c84d655e10612f5650a49f4bb9644ab30db)
