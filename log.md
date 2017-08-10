@@ -45,3 +45,9 @@
 **Thoughts** There's so much to learn that I feel both motivated and de-motivated
 
 **Link to work:** [GitHub commit](https://github.com/fmgbeoma/php7/commit/336a2c84d655e10612f5650a49f4bb9644ab30db)
+
+###Day 7: August9. Wednesday
+**Today's progress**: Challenges 116 - 148
+
+**Thoughts** Finally experiencing the awesome power of Vanilla JavaScript in its early stages
+
