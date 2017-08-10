@@ -51,3 +51,7 @@
 
 **Thoughts** Finally experiencing the awesome power of Vanilla JavaScript in its early stages
 
+###Day 8: August10. Thursday
+**Today's progress**: Challenges 148 - 156
+
+**Thoughts** Gradual but consistent
