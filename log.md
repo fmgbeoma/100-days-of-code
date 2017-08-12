@@ -55,3 +55,9 @@
 **Today's progress**: Challenges 148 - 156
 
 **Thoughts** Gradual but consistent
+
+###Day 9: August12. Saturday
+**Today's progress**: Challenges 156 - 186
+
+**Thoughts** Ok so I also learnt new things about Golf while playing the Golf game
+
