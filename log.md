@@ -61,7 +61,12 @@
 
 **Thoughts** Ok so I also learnt new things about Golf while playing the Golf game
 
-###Day 9: August14. Monday
+###Day 10: August14. Monday
 **Today's progress**: Soft Skills
 
 **Thoughts** It also pays to learn skills necessary for success not only tech skills
+
+###Day 11: August14. Tuesday
+**Today's progress**: Loading... 
+
+**Thoughts** 
